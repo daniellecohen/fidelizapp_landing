@@ -7,4 +7,4 @@ Teaching how to do a PR. :)
 
 fantastic, now!
 
-Teaching github to my friend.
+Uhul, github is fantastic
